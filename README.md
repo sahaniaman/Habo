@@ -4,7 +4,7 @@
 
 Habit Builder is a modern, intuitive habit-tracking application designed to help you establish and maintain positive routines. With beautiful visualizations, personalized reminders, and insightful analytics, staying consistent with your goals has never been easier.  
 
-![Habit Builder Dashboard Preview]
+Habit Builder Dashboard Preview
 ![alt text](image.png)
 
 ## ✨ Why Habit Builder?  
