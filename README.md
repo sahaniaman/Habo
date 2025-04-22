@@ -182,7 +182,7 @@ We welcome contributions! Here’s how:
 ---
 
 ## 📜 **License**  
-MIT © [Your Name]  
+MIT © AMAN SAHANI 
 
 ---
 
